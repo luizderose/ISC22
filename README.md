@@ -1,2 +1,2 @@
 # ISC22-Workshop
-HPC in the Cloud Workshop at ISC 2022
+HPC in the 20’s- Flexible Performance in the Cloud
